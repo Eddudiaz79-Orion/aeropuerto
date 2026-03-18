@@ -21,6 +21,7 @@ st.set_page_config(
     page_title="Operaciones Acumuladas",
     layout="centered",
     initial_sidebar_state="collapsed"
+
 )
 
 # Ajuste del ancho maximo del contenedor principal a 1200 px 
